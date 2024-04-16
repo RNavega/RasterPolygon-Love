@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   sodipodi:docname="Example.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#808080"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#404040"
+     inkscape:document-units="px"
+     showborder="false"
+     shape-rendering="crispEdges"
+     showgrid="true"
+     inkscape:zoom="16"
+     inkscape:cx="16.65625"
+     inkscape:cy="12.21875"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#000000"
+       empopacity="0.50196078"
+       color="#000000"
+       opacity="0.12156863"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-linecap:square;-inkscape-stroke:none"
+       d="M 0,0 V 32 H 32 V 0 Z M 2,2 H 30 V 30 H 2 Z M 9.49,3 9.11,3.03 8.76,3.21 4.06,6.89 3.8,7.2 3.69,7.56 3.71,7.94 3.89,8.29 10.66,16.91 l -2.35,1.85 -0.16,0.22 -0.01,0.26 0.12,0.23 0.24,0.13 10.47,2.46 h 0.36 l 0.31,-0.15 0.22,-0.27 0.08,-0.35 0.1,-10.76 -0.08,-0.26 -0.19,-0.17 -0.25,-0.05 -0.25,0.1 -2.35,1.84 L 10.16,3.37 9.86,3.12 Z M 20.5,24 17.58,24.2 15.2,24.73 13.59,25.53 13,26.5 l 0.59,0.97 1.61,0.79 2.38,0.54 L 20.5,29 23.42,28.8 25.8,28.27 27.41,27.47 28,26.5 27.41,25.53 25.8,24.73 23.42,24.2 Z"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
